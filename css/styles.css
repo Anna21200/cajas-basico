@@ -1,0 +1,21 @@
+body{background-color: brown;}
+h1{
+    font-size: 70px;
+    font-family: fantasy;
+}
+a{
+    width: 70px;
+    height: 50px;
+    background-color: beige;
+    padding: 10px;
+    border-radius: 15px;
+    text-decoration: nome;
+    font-family: serif;
+    color: black;
+
+}
+a:hover{background-color: antiquewhite;}
+img{
+    max-width: 300px;
+    border: slateblue 4px;
+}
